@@ -63,7 +63,7 @@ class QRCodeDetector:
 
 if __name__ == "__main__":
     # Specify the image path
-    image_path = r"C:\Users\krish\OneDrive\Desktop\image.jpg"  # Replace with the correct image path
+    image_path = r"C:\Users\krish\OneDrive\Desktop\image.jpg"  
     
     # Create an instance of the QRCodeDetector and run it
     qr_detector = QRCodeDetector()
